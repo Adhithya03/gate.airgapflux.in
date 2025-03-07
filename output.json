@@ -1,0 +1,1182 @@
+{
+    "2007": {
+        "2": [
+            {
+                "has_diagram": true,
+                "question_number": 1,
+                "question_text": "The common emitter forward current gain of the transistor shown is \\(\\beta_F = 100\\). The transistor is operating in",
+                "question_type": "MCQ",
+                "options": [
+                    "A) Saturation region",
+                    "B) Cutoff region",
+                    "C) Reverse active region",
+                    "D) Forward active region"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 2,
+                "question_text": "The three-terminal linear voltage regulator is connected to a 10 \\(\\Omega\\) load resistor as shown in the figure. If \\(V_{in}\\) is 10 V, what is the power dissipated in the transistor?",
+                "question_type": "MCQ",
+                "numerical_answer": {
+                    "rounding": "1_decimal"
+                },
+                "options": [
+                    "A) 0.6 W",
+                    "B) 2.4 W",
+                    "C) 4.2 W",
+                    "D) 5.4 W"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "has_diagram": true,
+                "question_number": 3,
+                "question_text": "Consider the transformer connections in a part of a power system shown in the figure. The nature of transformer connections and phase shifts are indicated for all but one transformer. Which of the following connections, and the corresponding phase shift \\(\\theta\\), should be used for the transformer between A and B?",
+                "question_type": "MCQ",
+                "options": [
+                    "A) Star - Star \\(\\(\\theta = 0^\\circ\\)\\)",
+                    "B) Star - Delta \\(\\(\\theta = -30^\\circ\\)\\)",
+                    "C) Delta - Star \\(\\(\\theta = 30^\\circ\\)\\)",
+                    "D) Star - Zigzag \\(\\(\\theta = 30^\\circ\\)\\)"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 4,
+                "question_text": "The incremental cost curves in Rs/MWhr for two generators supplying a common load of 700 MW are shown in the figures. The maximum and minimum generation limits are also indicated. The optimum generation schedule is:",
+                "question_type": "MCQ",
+                "options": [
+                    "A) Generator A: 400 MW, Generator B: 300 MW",
+                    "B) Generator A: 350 MW, Generator B: 350 MW",
+                    "C) Generator A: 450 MW, Generator B: 250 MW",
+                    "D) Generator A: 425 MW, Generator B: 275 MW"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "has_diagram": true,
+                "question_number": 5,
+                "question_text": "Two regional systems, each having several synchronous generators and loads are interconnected by an ac line and a HVDC link as shown in the figure. Which of the following statements is true in the steady state?",
+                "question_type": "MCQ",
+                "options": [
+                    "A) Both regions need not have the same frequency",
+                    "B) The total power flow between the regions \\((P_{ac} + P_{dc})\\) can be changed by controlling the HVDC converters alone",
+                    "C) The power sharing between the ac line and the HVDC link can be changed by controlling the HVDC converters alone.",
+                    "D) The direction of power flow in the HVDC link \\((P_{dc})\\) cannot be reversed."
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 6,
+                "question_text": "Consider a bundled conductor of an overhead line, consisting of three identical sub-conductors placed at the corners of an equilateral triangle as shown in the figure. If we neglect the charges on the other phase conductors and ground, and assume that spacing between sub-conductors is much larger than their radius, the maximum electric field intensity is experienced at",
+                "question_type": "MCQ",
+                "options": [
+                    "A) Point X",
+                    "B) Point Y",
+                    "C) Point Z",
+                    "D) Point W"
+                ]
+            }
+        ],
+        "5": [
+            {
+                "has_diagram": true,
+                "question_number": 7,
+                "question_text": "The circuit shown in the figure is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) a voltage source with voltage \\(\\frac{rV}{R_1//R_2}\\)",
+                    "B) a voltage source with voltage \\(\\frac{r//R_2}{r//R_1}V\\)",
+                    "C) a current source with current \\(\\frac{r//R_2}{R_1+R_2}\\frac{V}{r}\\)",
+                    "D) a current source with current \\(\\frac{R_2}{R_1+R_2}\\frac{V}{r}\\)"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 8,
+                "question_text": "The system shown in the figure is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) stable",
+                    "B) unstable",
+                    "C) conditionally stable",
+                    "D) stable for input \\(u_1\\), but unstable for input \\(u_2\\)"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 9,
+                "question_text": "Let a signal \\(a_1\\sin(\\omega_1t+\\phi_1)\\) be applied to a stable linear time-invariant system. Let the corresponding steady state output be represented as \\(a_2F(\\omega_1t+\\phi_2)\\). Then which of the following statements is true?",
+                "question_type": "MCQ",
+                "options": [
+                    "A) F is not necessarily a \\\"sine\\\" or \\\"cosine\\\" function but must be periodic with \\(\\omega_1 = \\omega_2\\).",
+                    "B) F must be a \\\"sine\\\" or \\\"cosine\\\" function with \\(a_1 = a_2\\)",
+                    "C) F must be a \\\"sine\\\" function with \\(\\omega_1 = \\omega_2\\) and \\(\\phi_1 = \\phi_2\\)",
+                    "D) F must be a \\\"sine\\\" or \\\"cosine\\\" function with \\(\\omega_1 = \\omega_2\\)"
+                ]
+            }
+        ],
+        "6": [
+            {
+                "has_diagram": false,
+                "question_number": 10,
+                "question_text": "The frequency spectrum of a signal is shown in the figure. If this signal is ideally sampled at intervals of 1 ms, then the frequency spectrum of the sampled signal will be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) ",
+                    "B) ",
+                    "C) ",
+                    "D) "
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 11,
+                "question_text": "Divergence of the vector field \\(V(x,y,z) = -(x \\cos xy + y)i + (y \\cos xy)j + (\\sin z^2 + x^2 + y^2)k\\) is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(2z \\cos z^2\\)",
+                    "B) \\(\\sin xy + 2z \\cos z^2\\)",
+                    "C) \\(x \\sin xy - \\cos z\\)",
+                    "D) none of these"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 12,
+                "question_text": "\\(x = \\begin{bmatrix} x_1 & x_2 & \\dots & x_n \\end{bmatrix}^T\\) is an n-tuple nonzero vector. The \\(n \\times n\\) matrix \\(V = xx^T\\)",
+                "question_type": "MCQ",
+                "options": [
+                    "A) has rank zero",
+                    "B) has rank 1",
+                    "C) is orthogonal",
+                    "D) has rank n"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 13,
+                "question_text": "A single-phase fully controlled thyristor bridge ac-dc converter is operating at a firing angle of \\(25^\ncirc\\) and an overlap angle of \\(10^\ncirc\\) with constant dc output current of 20 A. The fundamental power factor (displacement factor) at input ac mains is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 0.78",
+                    "B) 0.827",
+                    "C) 0.866",
+                    "D) 0.9"
+                ]
+            }
+        ],
+        "7": [
+            {
+                "has_diagram": true,
+                "question_number": 14,
+                "question_text": "A three-phase, fully-controlled thyristor bridge converter is used as line commutated inverter to feed 50 kW power at 420 V dc to a three-phase, 415 V (line), 50 Hz ac mains. Consider dc link current to be constant. The rms current of the thyristor is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 119.05 \\(\\text{ A}\\)",
+                    "B) 79.37 \\(\\text{ A}\\)",
+                    "C) 68.73 \\(\\text{ A}\\)",
+                    "D) 39.68 \\(\\text{ A}\\)"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 15,
+                "question_text": "In a transformer, zero voltage regulation at full load is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) not possible",
+                    "B) possible at unity power factor load",
+                    "C) possible at leading power factor load",
+                    "D) possible at lagging power factor load"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 16,
+                "question_text": "The dc motor, which can provide zero speed regulation at full load without any controller, is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) series",
+                    "B) shunt",
+                    "C) cumulative compound",
+                    "D) differential compound"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 17,
+                "question_text": "The probes of a non-isolated, two-channel oscilloscope are clipped to points A, B and C in the circuit of the adjacent figure. \\(V_{in}\\) is a square wave of a suitable low frequency. The display on \\(Ch_1\\) and \\(Ch_2\\) are as shown on the right. Then the \"Signal\" and \"Ground\" probes \\(S_1, G_1\\) and \\(S_2, G_2\\) of \\(Ch_1\\) and \\(Ch_2\\) respectively are connected to points:",
+                "question_type": "MCQ",
+                "options": [
+                    "A) A,B,C,A",
+                    "B) A,B,C,B",
+                    "C) C,B,A,B",
+                    "D) B,A,B,C"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 18,
+                "question_text": "A single phase full-wave half-controlled bridge converter feeds an inductive load. The two SCRs in the converter are connected to a common DC bus. The converter has to have a freewheeling diode",
+                "question_type": "MCQ",
+                "options": [
+                    "A) because the converter inherently does not provide for free-wheeling",
+                    "B) because the converter does not provide for free-wheeling for high values of triggering angles",
+                    "C) or else the free-wheeling action of the converter will cause shorting of the AC supply",
+                    "D) or else if a gate pulse to one of the SCRs is missed, it will subsequently cause a high load current in the other SCR"
+                ]
+            }
+        ],
+        "8": [
+            {
+                "has_diagram": true,
+                "question_number": 19,
+                "question_text": "The electromagnetic torque \\(T_e\\) of a drive, and its connected load torque \\(T_L\\) are as shown below. Out of the operating points A, B, C and D, the stable ones are",
+                "question_type": "MCQ",
+                "options": [
+                    "A) A, C, D",
+                    "B) B, C",
+                    "C) A, D",
+                    "D) B, C, D"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 20,
+                "question_text": "\"Six MOSFETs connected in a bridge configuration (having no other power device) MUST be operated as a Voltage Source Inverter (VSI)\". This statement is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) True, because being majority carrier devices, MOSFETs are voltage driven",
+                    "B) True, because MOSFETs have inherently anti-parallel diodes",
+                    "C) False, because it can be operated both as Current Source Inverter (CSI) or a VSI",
+                    "D) False, because MOSFETs can be operated as excellent constant current sources in the saturation region"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 21,
+                "question_text": "The input signal \\(V_{in}\\) shown in the figure is a 1 kHz square wave voltage that alternates between +7V and -7V with a 50\\% duty cycle. Both transistors have the same current gain, which is large. The circuit delivers power to the load resistor \\(R_L\\). What is the efficiency of this circuit for the given input? Choose the closest answer.",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 46\\%",
+                    "B) 55\\%",
+                    "C) 63\\%",
+                    "D) 92\\%"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "has_diagram": true,
+                "question_number": 22,
+                "question_text": "A, B, C and D are input bits, and Y is the output bit in the XOR gate circuit of the figure below. Which of the following statements about the sum S of A, B, C, D and Y is correct?",
+                "question_type": "MCQ",
+                "options": [
+                    "A) S is always either zero or odd",
+                    "B) S is always either zero or even",
+                    "C) \\(S = 1\\) only if the sum of A, B, C and D is even",
+                    "D) \\(S = 1\\) only if the sum of A, B, C and D is odd"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 23,
+                "question_text": "The differential equation \\(\\frac{dx}{dt} = \\frac{1 - x}{\\tau}\\) is discretised using Euler's numerical integration method with a time step \\(\\Delta t > 0\\). What is the maximum permissible value of \\(\\Delta t\\) to ensure stability of the solution of the corresponding discrete time equation?",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 1",
+                    "B) \\(\\tau / 2\\)",
+                    "C) \\(\\tau\\)",
+                    "D) \\(2\\tau\\)"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 24,
+                "question_text": "The switch S in the circuit of the figure is initially closed. It is opened at time \\(t = 0\\). You may neglect the Zener diode forward voltage drops. What is the behaviour of \\(V_{OUT}\\) for \\(t > 0\\)?",
+                "question_type": "MCQ",
+                "options": [
+                    "A) It makes a transition from -5 V to +5 V at \\(t = 12.98 \\text{ } \\mu s\\)",
+                    "B) It makes a transition from -5 V to +5 V at \\(t = 2.57 \\text{ } \\mu s\\)",
+                    "C) It makes a transition from +5 V to -5 V at \\(t = 12.98 \\text{ } \\mu s\\)",
+                    "D) It makes a transition from +5 V to -5 V at \\(t = 2.57 \\text{ } \\mu s\\)"
+                ]
+            }
+        ],
+        "10": [
+            {
+                "has_diagram": true,
+                "question_number": 25,
+                "question_text": "A solid sphere made of insulating material has a radius \\(R\\) and has a total charge \\(Q\\) distributed uniformly in its volume. What is the magnitude of the electric field intensity, \\(E\\), at a distance \\(r\\) \\((0<r<R)\\) inside the sphere?",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(\\frac{1}{4\\pi\\epsilon_o}\\frac{Qr}{R^3}\\)",
+                    "B) \\(\\frac{3}{4\\pi\\epsilon_o}\\frac{Qr}{R^3}\\)",
+                    "C) \\(\\frac{1}{4\\pi\\epsilon_o}\\frac{Q}{r^2}\\)",
+                    "D) \\(\\frac{1}{4\\pi\\epsilon_o}\\frac{QR}{r^3}\\)"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 26,
+                "question_text": "The figure below shows a three phase self-commutated voltage source converter connected to a power system. The converter's dc bus capacitor is marked as \\(C\\) in the figure. The circuit is initially operating in steady state with \\(\\delta = 0\\) and the capacitor dc voltage is equal to \\(V_{dc0}\\). You may neglect all losses and harmonics. What action should be taken to increase the capacitor dc voltage slowly to a new steady state value?",
+                "question_type": "MCQ",
+                "options": [
+                    "A) Make \\(\\delta\\) positive and maintain it at a positive value",
+                    "B) Make \\(\\delta\\) positive and return it to its original value",
+                    "C) Make \\(\\delta\\) negative and maintain it at a negative value",
+                    "D) Make \\(\\delta\\) negative and return it to its original value"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 27,
+                "question_text": "The total reactance and total susceptance of a lossless overhead EHV line, operating at 50 Hz, are given by 0.045 pu and 1.2 pu respectively. If the velocity of wave propagation is \\(3 \\times 10^5\\) km/s, then the approximate length of the line is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 122 km",
+                    "B) 172 km",
+                    "C) 222 km",
+                    "D) 272 km"
+                ]
+            }
+        ],
+        "11": [
+            {
+                "has_diagram": true,
+                "question_number": 28,
+                "question_text": "Consider the protection system shown in the figure below. The circuit breakers, numbered from 1 to 7 are of identical type. A single line to ground fault with zero fault impedance occurs at the midpoint of the line \\((at point F)\\), but circuit breaker 4 fails to operate (\"stuck breaker\"). If the relays are coordinated correctly, a valid sequence of circuit breaker operations is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 1, 2, 6, 7, 3, 5",
+                    "B) 1, 2, 5, 6, 7, 3",
+                    "C) 5, 6, 7, 3, 1, 2",
+                    "D) 5, 1, 2, 3, 6, 7"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 29,
+                "question_text": "A three phase balanced star connected voltage source with frequency \\(\\omega\\) rad/s is connected to a star connected balanced load which is purely inductive. The instantaneous line currents and phase to neutral voltages are denoted by \\((i_a, i_b, i_c)\\) and \\((V_{an}, V_{bn}, V_{cn})\\) respectively, and their rms values are denoted by V and I. If \\(R = \\begin{bmatrix} 0 & \\frac{1}{\\sqrt{3}} & -\\frac{1}{\\sqrt{3}}\\\\ \\frac{1}{\\sqrt{3}} & 0 & \\frac{1}{\\sqrt{3}}\\\\ -\\frac{1}{\\sqrt{3}} & \\frac{1}{\\sqrt{3}} & 0 \\end{bmatrix} \\begin{bmatrix} i_a\\\\ i_b\\\\ i_c \\end{bmatrix}\\), then the magnitude of R is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 3VI",
+                    "B) VI",
+                    "C) 0.7VI",
+                    "D) 0"
+                ]
+            }
+        ],
+        "12": [
+            {
+                "has_diagram": true,
+                "question_number": 30,
+                "question_text": "Consider a synchronous generator connected to an infinite bus by two identical parallel transmission lines. The transient reactance \\(x'\\) of the generator is 0.1 pu and the mechanical power input to it is constant at 1.0 pu. Due to some previous disturbance, the rotor angle \\(\\delta\\) is undergoing an undamped oscillation, with the maximum value of \\(\\delta(t)\\) equal to \\(130^\\\\\\circ\\). One of the parallel lines trips due to relay maloperation at an instant when \\(\\delta(t) = 130^\\\\\\circ\\) as shown in the figure. The maximum value of the per unit line reactance, x, such that the system does not lose synchronism subsequent to this tripping is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 0.87",
+                    "B) 0.74",
+                    "C) 0.67",
+                    "D) 0.54"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 31,
+                "question_text": "Suppose we define a sequence transformation between \\\"a-b-c\\\" and \\\"p-n-o\\\" variables as follows: \\(\\begin{bmatrix} f_a\\\\f_b\\\\f_c \\end{bmatrix} = k \\begin{bmatrix} 1 & 1 & 1\\\\\\alpha^2 & \\alpha & 1\\\\\\alpha & \\alpha^2 & 1 \\end{bmatrix} \\begin{bmatrix} f_p\\\\f_n\\\\f_o \\end{bmatrix}\\) where \\(\\alpha = e^{j\\frac{2\\pi}{3}}\\) and k is a constant. Now, if it is given that: \\(\\begin{bmatrix} V_p\\\\V_n\\\\V_o \\end{bmatrix} = \\begin{bmatrix} 0.5 & 0 & 0\\\\0 & 0.5 & 0\\\\0 & 0 & 2.0 \\end{bmatrix} \\begin{bmatrix} i_p\\\\i_n\\\\i_o \\end{bmatrix}\\) and \\(\\begin{bmatrix} V_a\\\\V_b\\\\V_c \\end{bmatrix} = Z \\begin{bmatrix} i_a\\\\i_b\\\\i_c \\end{bmatrix}\\), then,",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(Z = \\begin{bmatrix} 1.0 & 0.5 & 0.75\\\\0.75 & 1.0 & 0.5\\\\0.5 & 0.75 & 1.0 \\end{bmatrix}\\)",
+                    "B) \\(Z = \\begin{bmatrix} 1.0 & 0.5 & 0.5\\\\0.5 & 1.0 & 0.5\\\\0.5 & 0.5 & 1.0 \\end{bmatrix}\\)",
+                    "C) \\(Z = 3k^2 \\begin{bmatrix} 1.0 & 0.75 & 0.5\\\\0.5 & 1.0 & 0.75\\\\0.75 & 0.5 & 1.0 \\end{bmatrix}\\)",
+                    "D) \\(Z = \\frac{k^2}{3} \\begin{bmatrix} 1.0 & -0.5 & -0.5\\\\-0.5 & 1.0 & -0.5\\\\-0.5 & -0.5 & 1.0 \\end{bmatrix}\\)"
+                ]
+            }
+        ],
+        "13": [
+            {
+                "has_diagram": true,
+                "question_number": 32,
+                "question_text": "Consider the two power systems shown in figure A below, which are initially not interconnected, and are operating in steady state at the same frequency. Separate loadflow solutions are computed individually for the two systems, corresponding to this scenario. The bus voltage phasors so obtained are indicated on figure A. These two isolated systems are now interconnected by a short transmission line as shown in figure B, and it is found that \\(P_1 = P_2 = Q_1 = Q_2 = 0\\). The bus voltage phase angular difference between generator bus X and generator bus Y after the interconnection is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(10^\ng{\\circ}\\)",
+                    "B) \\(25^\ng{\\circ}\\)",
+                    "C) \\(-30^\ng{\\circ}\\)",
+                    "D) \\(30^\ng{\\circ}\\)"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 33,
+                "question_text": "The octal equivalent of the HEX number AB.CD is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 253.314",
+                    "B) 253.632",
+                    "C) 526.314",
+                    "D) 526.632"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 34,
+                "question_text": "If \\(x = Re \\space G(j\\omega)\\), and \\(y = Im \\space G(j\\omega)\\) then for \\(\\omega \\to 0^+\\), the Nyquist plot for \\(G(s) = \\frac{1}{(s+1)(s+2)}\\) becomes asymptotic to the line",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(x = 0\\)",
+                    "B) \\(x = -3/4\\)",
+                    "C) \\(x = y - 1/6\\)",
+                    "D) \\(x = y/\\sqrt{3}\\)"
+                ]
+            }
+        ],
+        "14": [
+            {
+                "has_diagram": true,
+                "question_number": 35,
+                "question_text": "The system \\(\\frac{900}{s(s+1)(s+9)}\\) is to be compensated such that its gain-crossover frequency becomes same as its uncompensated phase-crossover frequency and provides a \\(45^\\circ\\) phase margin. To achieve this, one may use",
+                "question_type": "MCQ",
+                "options": [
+                    "A) a lag compensator that provides an attenuation of 20 dB and a phase lag of \\(45^\\circ\\) at the frequency of \\(3\\sqrt{3}\\) rad/s",
+                    "B) a lead compensator that provides an amplification of 20 dB and a phase lead of \\(45^\\circ\\) at the frequency of 3 rad/s",
+                    "C) a lag-lead compensator that provides an amplification of 20 dB and a phase lag of \\(45^\\circ\\) at the frequency of \\(\\sqrt{3}\\) rad/s.",
+                    "D) a lag-lead compensator that provides an attenuation of 20 dB and phase lead of \\(45^\\circ\\) at the frequency of 3 rad/s"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 36,
+                "question_text": "Consider the discrete-time system shown in the figure where the impulse response of \\(G(z)\\) is \\(g(0) = 0, g(1) = g(2) = 1, g(3) = g(4) = \\dots = 0\\).",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\([-1, \\frac{1}{2}\\)]",
+                    "B) \\([-1, 1]\\)",
+                    "C) \\([-\\frac{1}{2}, 1]\\)",
+                    "D) \\([-\\frac{1}{2}, 2]\\)"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 37,
+                "question_text": "A signal \\(x(t)\\) is given by \\(x(t) = \\begin{cases} 1, & -T/4 < t \\le 3T/4\\\\ -1, & 3T/4 < t \\le 7T/4 \\end{cases}\\) \\(x(t + T)\\)",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(\\frac{4}{\\pi}cos(\\frac{\\pi t}{T} - \\frac{\\pi}{4})\\)",
+                    "B) \\(\\frac{4}{\\pi}cos(\\frac{\\pi t}{2T} + \\frac{\\pi}{4})\\)",
+                    "C) \\(\\frac{4}{\\pi}sin(\\frac{\\pi t}{T} - \\frac{\\pi}{4})\\)",
+                    "D) \\(\\frac{4}{\\pi}sin(\\frac{\\pi t}{2T} + \\frac{\\pi}{4})\\)"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 38,
+                "question_text": "If the loop gain K of a negative feedback system having a loop transfer function \\(\\frac{K(s+3)}{(s+8)^2}\\) is to be adjusted to induce a sustained oscillation then",
+                "question_type": "MCQ",
+                "options": [
+                    "A) The frequency of this oscillation must be \\(\\frac{4}{\\sqrt{3}}\\) rad/s",
+                    "B) The frequency of this oscillation must be must be 4 rad/s",
+                    "C) The frequency of this oscillation must be must be 4 or \\(\\frac{4}{\\sqrt{3}}\\) rad/s",
+                    "D) such a K does not exist"
+                ]
+            }
+        ],
+        "15": [
+            {
+                "has_diagram": true,
+                "question_number": 39,
+                "question_text": "The system shown in the figure below can be reduced to the form shown, with",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(X = c_1s + c_0\\), \\(Y = \\frac{1}{(s^2 + a_1s + a_0)}\\), \\(Z = b_1s + b_0\\)",
+                    "B) \\(X = 1\\), \\(Y = \\frac{(c_1s + c_0)}{(s^2 + a_1s + a_0)}\\), \\(Z = b_1s + b_0\\)",
+                    "C) \\(X = c_1s + c_0\\), \\(Y = \\frac{(b_1s + b_0)}{(s^2 + a_1s + a_0)}\\), \\(Z = 1\\)",
+                    "D) \\(X = c_1s + c_0\\), \\(Y = \\frac{1}{(s^2 + a_1s + a_0)}\\), \\(Z = b_1s + b_0\\)"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 40,
+                "question_text": "The value of \\(\\oint_C \\frac{dz}{(1 + z^2)}\\), where C is the contour \\(|z - i/2| = 1\\) is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(2\\pi i\\)",
+                    "B) \\(\\pi\\)",
+                    "C) \\(\\tan^{-1} z\\)",
+                    "D) \\(\\pi \\tan^{-1} z\\)"
+                ]
+            }
+        ],
+        "16": [
+            {
+                "has_diagram": true,
+                "question_number": 41,
+                "question_text": "A single-phase voltage source inverter is controlled in a single pulse-width modulated mode with a pulse width of 150\\(^\\\\\\circ\\) in each half cycle. Total harmonic distortion is defined as \\(THD = \\frac{\\sqrt{V_{rms}^2 - V_1^2}}{V_1} \\times 100\\), where \\(V_1\\) is the rms value of the fundamental component of the output voltage. The THD of output ac voltage waveform is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 65.65%",
+                    "B) 48.42%",
+                    "C) 31.83%",
+                    "D) 30.49%"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 42,
+                "question_text": "A voltage source inverter is used to control the speed of a three-phase, 50 Hz, squirrel cage induction motor. Its slip for rated torque is 4%. The flux is maintained at rated value. If the stator resistance and rotational losses are neglected, then the frequency of the impressed voltage to obtain twice the rated torque at starting should be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 10 Hz",
+                    "B) 5 Hz",
+                    "C) 4 Hz",
+                    "D) 2 Hz"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 43,
+                "question_text": "A three-phase, 440 V, 50 Hz ac mains fed thyristor bridge is feeding a 440 V dc, 15 kW, 1500 rpm separately excited dc motor with a ripple free continuous current in the dc link under all operating conditions. Neglecting the losses, the power factor of the ac mains at half the rated speed, is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 0.354",
+                    "B) 0.372",
+                    "C) 0.90",
+                    "D) 0.955"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 44,
+                "question_text": "A single-phase, 230V, 50 Hz ac mains fed step down transformer (4:1) is supplying power to a half-wave uncontrolled ac-dc converter used for charging a battery (12 V dc) with the series current limiting resistor being 19.04 \\(\\Omega\\). The charging current is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 2.43 A",
+                    "B) 1.65 A",
+                    "C) 1.22 A",
+                    "D) 1.0 A"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 45,
+                "question_text": "A three-phase synchronous motor connected to ac mains is running at full load and unity power factor. If its shaft load is reduced by half, with field current held constant, its new power factor will be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) unity",
+                    "B) leading",
+                    "C) lagging",
+                    "D) dependent on machine parameters"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 46,
+                "question_text": "A 100 kVA, 415 V (line), star-connected synchronous machine generates rated open circuit voltage of 415 V at a field current of 15 A. The short circuit armature current at a field current of 10 A is equal to the rated armature current. The per unit saturated synchronous reactance is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 1.731",
+                    "B) 1.5",
+                    "C) 0.666",
+                    "D) 0.577"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 47,
+                "question_text": "A three-phase, three-stack, variable reluctance step motor has 20 poles on each rotor and stator stack. The step angle of this step motor is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 3\\(^\\\\\\circ\\)",
+                    "B) 6\\(^\\\\\\circ\\)",
+                    "C) 9\\(^\\\\\\circ\\)",
+                    "D) 18\\(^\\\\\\circ\\)"
+                ]
+            }
+        ],
+        "17": [
+            {
+                "has_diagram": true,
+                "question_number": 48,
+                "question_text": "A single-phase 50 kVA, 250V/500V two winding transformer has an efficiency of 95% at full load, unity power factor. If it is reconfigured as a 500V/750V autotransformer, its efficiency at its new rated load at unity power factor will be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 95.752%",
+                    "B) 97.851%",
+                    "C) 98.276%",
+                    "D) 99.241%"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 49,
+                "question_text": "A 230 V (Phase), 50 Hz, three-phase, 4-wire system has a phase sequence ABC. A unity power-factor load of 4 kW is connected between phase A and neutral N. It is desired to achieve zero neutral current through the use of a pure inductor and a pure capacitor in the other two phases. The value of inductor and capacitor is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 72.95 mH in phase C and 139.02 \\(\\mu\\)F in phase B",
+                    "B) 72.95 mH in phase B and 139.02 \\(\\mu\\)F in phase C",
+                    "C) 42.12 mH in phase C and 240.79 \\(\\mu\\)F in phase B",
+                    "D) 42.12 mH in phase B and 240.79 \\(\\mu\\)F in phase C"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 50,
+                "question_text": "The state equation for the current \\(I_1\\) shown in the network shown below in terms of the voltage \\(V_x\\) and the independent source V, is given by",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(\\frac{dI_1}{dt} = -1.4V_x - 3.75I_1 + \\frac{5}{4}V\\)",
+                    "B) \\(\\frac{dI_1}{dt} = 1.4V_x - 3.75I_1 - \\frac{5}{4}V\\)",
+                    "C) \\(\\frac{dI_1}{dt} = -1.4V_x + 3.75I_1 + \\frac{5}{4}V\\)",
+                    "D) \\(\\frac{dI_1}{dt} = -1.4V_x + 3.75I_1 - \\frac{5}{4}V\\)"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 51,
+                "question_text": "If \\(u(t)\\), \\(r(t)\\) denote the unit step and unit ramp functions respectively and \\(u(t)*r(t)\\) their convolution, then the function \\(u(t+1)*r(t-2)\\) is given by",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\((1/2)(t-1)(t-2)\\)",
+                    "B) \\((1/2)(t-1)(t-2)\\)",
+                    "C) \\((1/2)(t-1)^2u(t-1)\\)",
+                    "D) none of the above"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 52,
+                "question_text": "The integral \\(\\frac{1}{2\\pi} \\int_0^{2\\pi} \\sin(t-\\tau)\\cos\\tau d\\tau\\) equals",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(\\sin t \\cos t\\)",
+                    "B) 0",
+                    "C) \\((1/2)\\cos t\\)",
+                    "D) \\((1/2)\\sin t\\)"
+                ]
+            }
+        ],
+        "18": [
+            {
+                "has_diagram": true,
+                "question_number": 53,
+                "question_text": "X(z) = 1 - 3z\u207b\u00b9, Y(z) = 1 + 2z\u00b2 are Z-transforms of two signals x[n], y[n] respectively. A linear time invariant system has the impulse response h[n] defined by these two signals as h[n] = x[n-1] * y[n], where * denotes discrete time convolution. Then the output of the system for the input \u03b4[n-1]",
+                "question_type": "MCQ",
+                "options": [
+                    "A) has Z-transform z\u207b\u00b9X(z)Y(z)",
+                    "B) equals \u03b4[n-2] - 3\u03b4[n-3] + 2\u03b4[n-4] - 6\u03b4[n-5]",
+                    "C) has Z-transform 1 - 3z\u207b\u00b9 + 2z\u207b\u00b2 - 6z\u207b\u00b3",
+                    "D) does not satisfy any of the above three."
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 54,
+                "question_text": "A loaded dice has following probability distribution of occurrences",
+                "question_type": "MCQ",
+                "options": [
+                    "A) same as that of occurrence of 3, 4, 5",
+                    "B) same as that of occurrence of 1, 2, 5",
+                    "C) 1/128",
+                    "D) 5/8"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 55,
+                "question_text": "Let x and y be two vectors in a 3 dimensional space and <x, y> denote their dot product. Then the determinant \\( \\begin{vmatrix} <x, x> & <x, y> \\ <y, x> & <y, y> \\end{vmatrix} \\)",
+                "question_type": "MCQ",
+                "options": [
+                    "A) is zero when x and y are linearly independent",
+                    "B) is positive when x and y are linearly independent",
+                    "C) is non-zero for all non-zero x and y",
+                    "D) is zero only when either x or y is zero"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 56,
+                "question_text": "The linear operation L(x) is defined by the cross product L(x) = b \\( \\times \\) x, where b = \\([0 \\quad 1 \\quad 0]\\)\u1d40 and x = \\([x\u2081 \\quad x\u2082 \\quad x\u2083]\\)\u1d40 are three dimensional vectors. The 3x3 matrix M of this operation satisfies",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 0, +1, -1",
+                    "B) 1, -1, 1",
+                    "C) i, -i, 1",
+                    "D) i, -i, 0"
+                ]
+            }
+        ],
+        "19": [
+            {
+                "has_diagram": true,
+                "question_number": 57,
+                "question_text": "In the figure, transformer \\(T_1\\) has two secondaries, all three windings having the same number of turns and with polarities as indicated. One secondary is shorted by a \\(10\\ \\Omega\\) resistor \\(R\\), and the other by a \\(15\\ \\mu F\\) capacitor. The switch SW is opened \\((t=0)\\) when the capacitor is charged to \\(5\\ \\text{ V}\\) with the left plate as positive. At \\(t = 0^+\\) the voltage \\(V_P\\) and current \\(I_R\\) are",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(-25\\ \\text{ V}, 0.0\\ \\text{ A}\\)",
+                    "B) very large voltage, very large current",
+                    "C) \\(5.0\\ \\text{ V}, 0.5\\ \\text{ A}\\)",
+                    "D) \\(-5.0\\ \\text{ V}, -0.5\\ \\text{ A}\\)"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 58,
+                "question_text": "IC 555 in the adjacent figure is configured as an astable multivibrator. It is enabled to oscillate at \\(t=0\\) by applying a high input to pin 4. The pin description is: 1 and 8 \\u2013 supply; 2-trigger; 4-reset; 6-threshold; 7-discharge. The waveform appearing across the capacitor starting from \\(t=0\\), as observed on a storage CRO is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) ",
+                    "B) ",
+                    "C) ",
+                    "D) "
+                ]
+            }
+        ],
+        "20": [
+            {
+                "has_diagram": true,
+                "question_number": 59,
+                "question_text": "In the circuit of adjacent figure the diode connects the ac source to a pure inductance \\(L\\). The diode conducts for",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(90^\\\newlinecirc\\)",
+                    "B) \\(180^\\\newlinecirc\\)",
+                    "C) \\(270^\\\newlinecirc\\)",
+                    "D) \\(360^\\\newlinecirc\\)"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 60,
+                "question_text": "The circuit in the figure is a current commutated dc - dc chopper where, \\(Th_m\\) is the main SCR and \\(Th_{aux}\\) is the auxiliary SCR. The load current is constant at 10 A. \\(Th_m\\) is ON. \\(Th_{aux}\\) is triggered at \\(t = 0\\). \\(Th_m\\) is turned OFF between",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(0\\ \\mu s < t \\le 25\\ \\mu s\\)",
+                    "B) \\(25\\ \\mu s < t \\le 50\\ \\mu s\\)",
+                    "C) \\(50\\ \\mu s < t \\le 75\\ \\mu s\\)",
+                    "D) \\(75\\ \\mu s < t \\le 100\\ \\mu s\\)"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 61,
+                "question_text": "In the circuit shown in figure switch \\(SW_1\\) is initially CLOSED and \\(SW_2\\) is OPEN. The inductor \\(L\\) carries a current of 10 A and the capacitor is charged to 10 V with polarities as indicated. \\(SW_2\\) is initially CLOSED at \\(t = 0-\\) and \\(SW_1\\) is OPENED at \\(t = 0\\). The current through C and the voltage across \\(L\\) at \\(t = 0+\\) is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 55 A, 4.5 V",
+                    "B) 5.5 A, 45 V",
+                    "C) 45 A, 5.5 V",
+                    "D) 4.5 A, 55 V"
+                ]
+            }
+        ],
+        "21": [
+            {
+                "has_diagram": true,
+                "question_number": 62,
+                "question_text": "The R-L-C series circuit shown is supplied from a variable frequency voltage source. The admittance-locus of the R-L-C network at terminals AB for increasing frequency \\(\\omega\\) is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(Im\\)",
+                    "B) \\(Im\\)",
+                    "C) \\(Im\\)",
+                    "D) \\(Im\\)"
+                ]
+            }
+        ],
+        "22": [
+            {
+                "has_diagram": true,
+                "question_number": 63,
+                "question_text": "In the figure given below all phasors are with reference to the potential at point \\(O\\). The locus of voltage phasor \\(V_{YX}\\) as R is varied from zero to infinity is shown by",
+                "question_type": "MCQ",
+                "options": [
+                    "A) ",
+                    "B) ",
+                    "C) ",
+                    "D) "
+                ]
+            }
+        ],
+        "23": [
+            {
+                "has_diagram": true,
+                "question_number": 65,
+                "question_text": "Consider the feedback control system shown below which is subjected to a unit step input. The system is stable and has the following parameters \\(k_p = 4\\), \\(k_i = 10\\), \\(\\omega = 500\\) and \\(\\xi = 0.7\\).",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 1",
+                    "B) 0.25",
+                    "C) 0.1",
+                    "D) 0"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 66,
+                "question_text": "A three-phase squirrel cage induction motor has a starting torque of 150% and a maximum torque of 300% with respect to rated torque at rated voltage and rated frequency. Neglect the stator resistance and rotational losses. The value of slip for maximum torque is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 13.48%",
+                    "B) 16.24%",
+                    "C) 18.92%",
+                    "D) 26.79%"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 67,
+                "question_text": "The matrix A given below is the node incidence matrix of a network. The columns correspond to branches of the network while the rows correspond to nodes. Let \\(V = \\begin{bmatrix} v_1 & v_2 & \\dots & v_6 \\end{bmatrix}^T\\) denote the vector of branch voltages while \\(I = \\begin{bmatrix} i_1 & i_2 & \\dots & i_6 \\end{bmatrix}^T\\) that of branch currents. The vector \\(E = \\begin{bmatrix} e_1 & e_2 & e_3 & e_4 \\end{bmatrix}^T\\) denotes the vector of node voltages relative to a common ground.",
+                "question_type": "MCQ",
+                "options": [
+                    "A) The equations \\(v_1 - v_2 + v_3 = 0\\), \\(v_3 + v_4 - v_5 = 0\\) are KVL equations for the network for some loops",
+                    "B) The equations \\(v_1 - v_3 - v_6 = 0\\), \\(v_4 + v_5 - v_6 = 0\\) are KVL equations for the network for some loops",
+                    "C) \\(E = AV\\)",
+                    "D) \\(AV = 0\\) are KVL equations for the network"
+                ]
+            }
+        ],
+        "24": [
+            {
+                "has_diagram": true,
+                "question_number": 68,
+                "question_text": "An isolated 50 Hz synchronous generator is rated at 15 MW which is also the maximum continuous power limit of its prime mover. It is equipped with a speed governor with 5% droop. Initially, the generator is feeding three loads of 4 MW each at 50 Hz. One of these loads is programmed to trip permanently if the frequency falls below 48 Hz. If an additional load of 3.5 MW is connected then the frequency will settle down to",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 49.417 Hz",
+                    "B) 49.917 Hz",
+                    "C) 50.083 Hz",
+                    "D) 50.583 Hz"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 69,
+                "question_text": "Which one of the following statements regarding the INT (interrupt) and the BRQ (bus request) pins in a CPU is true?",
+                "question_type": "MCQ",
+                "options": [
+                    "A) The BRQ pin is sampled after every instruction cycle, but the INT is sampled after every machine cycle",
+                    "B) Both INT and BRQ are sampled after every machine cycle",
+                    "C) The INT pin is sampled after every instruction cycle, but the BRQ is sampled after every machine cycle",
+                    "D) Both INT and BRQ are sampled after every instruction cycle"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 70,
+                "question_text": "A bridge circuit is shown in the figure below. Which one of the sequences given below is most suitable for balancing the bridge?",
+                "question_type": "MCQ",
+                "options": [
+                    "A) First adjust \\(R_4\\), and then adjust \\(R_1\\)",
+                    "B) First adjust \\(R_2\\), and then adjust \\(R_3\\)",
+                    "C) First adjust \\(R_2\\), and then adjust \\(R_4\\)",
+                    "D) First adjust \\(R_4\\), and then adjust \\(R_2\\)"
+                ]
+            }
+        ],
+        "25": [
+            {
+                "has_diagram": true,
+                "question_number": 71,
+                "question_text": "If an autotransformer is used for reduced voltage starting to provide 1.5 per unit starting torque, the autotransformer ratio (%) should be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 57.77%",
+                    "B) 72.56%",
+                    "C) 78.25%",
+                    "D) 81.33%"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 72,
+                "question_text": "If a star-delta starter is used to start this induction motor, the per unit starting torque will be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 0.607",
+                    "B) 0.816",
+                    "C) 1.225",
+                    "D) 1.616"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 73,
+                "question_text": "If a starting torque of 0.5 per unit is required then the per unit starting current should be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 4.65",
+                    "B) 3.75",
+                    "C) 3.16",
+                    "D) 2.13"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 74,
+                "question_text": "The resistance R should be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 4.7 \\(\\text{ k}\\Omega\\)",
+                    "B) 470 \\(\\Omega\\)",
+                    "C) 47 \\(\\Omega\\)",
+                    "D) 4.7 \\(\\Omega\\)"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 75,
+                "question_text": "The minimum approximate volt-second rating of the pulse transformer suitable for triggering the SCR should be: (volt-second rating is the maximum of product of the voltage and the width of the pulse that may be applied)",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 2000 \\(\\mu\\text{V-s}\\)",
+                    "B) 200 \\(\\mu\\text{V-s}\\)",
+                    "C) 20 \\(\\mu\\text{V-s}\\)",
+                    "D) 2.0 \\(\\mu\\text{V-s}\\)"
+                ]
+            }
+        ],
+        "26": [
+            {
+                "has_diagram": false,
+                "question_number": 76,
+                "question_text": "The current in the inductor is",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(18.08\\text{ A}\\)",
+                    "B) \\(9.04\\text{ A}\\)",
+                    "C) \\(4.56\\text{ A}\\)",
+                    "D) \\(2.28\\text{ A}\\)"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 77,
+                "question_text": "The average force on the core to reduce the air gap will be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(832.29\\text{ N}\\)",
+                    "B) \\(1666.22\\text{ N}\\)",
+                    "C) \\(3332.47\\text{ N}\\)",
+                    "D) \\(6664.84\\text{ N}\\)"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 78,
+                "question_text": "A satisfies the relation",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(A + 3I + 2A^{-1} = 0\\)",
+                    "B) \\(A^2 + 2A + 2I = 0\\)",
+                    "C) \\((A+I)(A+2I) = 0\\)",
+                    "D) \\(exp(A) = 0\\)"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 79,
+                "question_text": "A\u00b2 equals",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(511A + 510I\\)",
+                    "B) \\(309A + 104I\\)",
+                    "C) \\(154A + 155I\\)",
+                    "D) \\(exp(9A)\\)"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 80,
+                "question_text": "For a step-input \\(e_i\\), the overshoot in the output \\(e_o\\) will be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 0, since the system is not under-damped",
+                    "B) 5%",
+                    "C) 16%",
+                    "D) 48%"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 81,
+                "question_text": "If the above step response is to be observed on a non-storage CRO, then it would be best to have the \\(e_i\\) as a",
+                "question_type": "MCQ",
+                "options": [
+                    "A) step function",
+                    "B) square wave of frequency 50 Hz",
+                    "C) square wave of frequency 300 Hz",
+                    "D) square wave of frequency 2.0 kHz"
+                ]
+            }
+        ],
+        "27": [
+            {
+                "has_diagram": true,
+                "question_number": 82,
+                "question_text": "Suppose Reg contains the 2's complement number 11010110. If this number is divided by 2, the answer should be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 01101011",
+                    "B) 10010101",
+                    "C) 11101001",
+                    "D) 11101011"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 83,
+                "question_text": "Such a division can be correctly performed by the following set of operations",
+                "question_type": "MCQ",
+                "options": [
+                    "A) L2,R2,R1",
+                    "B) L2,R1,R2",
+                    "C) R2,L1,R1",
+                    "D) R1,L2,R2"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 84,
+                "question_text": "A signal is processed by a causal filter with transfer function \\(G(s)\\). For a distortion free output signal waveform, \\(G(s)\\) must",
+                "question_type": "MCQ",
+                "options": [
+                    "A) provide zero phase shift for all frequency",
+                    "B) provide constant phase shift for all frequency",
+                    "C) provide linear phase shift that is proportional to frequency",
+                    "D) provide a phase shift that is inversely proportional to frequency"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 85,
+                "question_text": "\\(G(z) = \\alpha z^{-1} + \\beta z^3\\) is a low-pass digital filter with a phase characteristics same as that of the above question if",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(\\alpha = \\beta\\)",
+                    "B) \\(\\alpha = -\\beta\\)",
+                    "C) \\(\\alpha = \\beta^{(1/3)}\\)",
+                    "D) \\(\\alpha = \\beta^{-(1/3)}\\)"
+                ]
+            }
+        ]
+    },
+    "2008": {
+        "2": [
+            {
+                "has_diagram": true,
+                "question_number": 1,
+                "question_text": "The number of chords in the graph of the given circuit will be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 3",
+                    "B) 4",
+                    "C) 5",
+                    "D) 6"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 2,
+                "question_text": "The Thevenin's equivalent of a circuit operating at \\(\\omega = 5\\) rad/s, has \\(V_{oc} = 3.71\\angle -15.9^\\\\\\circ \\) V and \\(Z_\\theta = 2.38 - j0.667\\) \\(\\Omega\\). At this frequency, the minimal realization of the Thevenin's impedance will have a",
+                "question_type": "MCQ",
+                "options": [
+                    "A) resistor and a capacitor and an inductor",
+                    "B) resistor and a capacitor",
+                    "C) resistor and an inductor",
+                    "D) capacitor and an inductor"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 3,
+                "question_text": "A signal \\(e^{-\\alpha t}sin(\\omega t)\\) is the input to a real Linear Time Invariant system. Given K and \\(\\phi\\) are constants, the output of the system will be of the form \\(Ke^{-\\beta t}sin(\\nu t + \\phi)\\) where",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(\\beta\\) need not be equal to \\(\\alpha\\) but \\(\\nu\\) equal to \\(\\omega\\)",
+                    "B) \\(\\nu\\) need not be equal to \\(\\omega\\) but \\(\\beta\\) equal to \\(\\alpha\\)",
+                    "C) \\(\\beta\\) equal to \\(\\alpha\\) and \\(\\nu\\) equal to \\(\\omega\\)",
+                    "D) \\(\\beta\\) need not be equal to \\(\\alpha\\) and \\(\\nu\\) need not be equal to \\(\\omega\\)"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 4,
+                "question_text": "X is a uniformly distributed random variable that takes values between 0 and 1. The value of \\(E\\{X^3\\}\\) will be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) 0",
+                    "B) 1/8",
+                    "C) 1/4",
+                    "D) 1/2"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 5,
+                "question_text": "The characteristic equation of a \\((3 \\times 3)\\) matrix P is defined as \\(\\alpha(\\lambda) = |\\lambda I - P| = \\lambda^3 + \\lambda^2 + 2\\lambda + 1 = 0.\\) If I denotes identity matrix, then the inverse of matrix P will be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\((P^2 + P + 2I)\\)",
+                    "B) \\((P^2 + P + I)\\)",
+                    "C) \\(-(P^2 + P + I)\\)",
+                    "D) \\(-(P^2 + P + 2I)\\)"
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 6,
+                "question_text": "If the rank of a \\((5 \\times 6)\\) matrix Q is 4, then which one of the following statements is correct?",
+                "question_type": "MCQ",
+                "options": [
+                    "A) Q will have four linearly independent rows and four linearly independent columns",
+                    "B) Q will have four linearly independent rows and five linearly independent columns",
+                    "C) \\(QQ^T\\) will be invertible",
+                    "D) \\(Q^TQ\\) will be invertible"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "has_diagram": true,
+                "question_number": 7,
+                "question_text": "A function \\(y(t)\\) satisfies the following differential equation: \\(\\frac{dy(t)}{dt} + y(t) = \\delta(t)\\), where \\(\\delta(t)\\) is the delta function. Assuming zero initial condition, and denoting the unit step function by \\(u(t)\\), \\(y(t)\\) can be of the form",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(e^t\\)",
+                    "B) \\(e^{-t}\\)",
+                    "C) \\(e^t u(t)\\)",
+                    "D) \\(e^{-t} u(t)\\)"
+                ]
+            },
+            {
+                "has_diagram": true,
+                "question_number": 8,
+                "question_text": "The equivalent circuits of a diode, during forward biased and reverse biased conditions, are shown in the figure. If such a diode is used in clipper circuit of figure given above, the output voltage \\((v_o)\\) of the circuit will be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) ",
+                    "B) ",
+                    "C) ",
+                    "D) "
+                ]
+            },
+            {
+                "has_diagram": false,
+                "question_number": 9,
+                "question_text": "Two 8-bit ADCs, one of single slope integrating type and other of successive approximation type, take \\(T_A\\) and \\(T_B\\) times to convert 5 V analog input signal to equivalent digital output. If the input analog signal is reduced to 2.5V, the approximate time taken by the two ADCs will respectively, be",
+                "question_type": "MCQ",
+                "options": [
+                    "A) \\(T_A, T_B\\)",
+                    "B) \\(T_A/2, T_B\\)",
+                    "C) \\(T_A, T_B/2\\)",
+                    "D) \\(T_A/2, T_B/2\\)"
+                ]
+            }
+        ],
+
+
+All other years excluded.
